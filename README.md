@@ -125,7 +125,7 @@ currently:
 
 <img src="https://api.iconify.design/lucide/calendar-days.svg?color=%23A78BFA" width="28" alt="Calendar icon" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=999999&color=A78BFA&width=160&height=32&lines=Event Board" alt="EventBoard"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=999999&color=A78BFA&width=160&height=32&lines=EventBoard" alt="EventBoard"/>
 
 <sub>Event Discovery Platform</sub>
 
@@ -146,7 +146,7 @@ currently:
 
 <img src="https://api.iconify.design/lucide/users.svg?color=%23A78BFA" width="28" alt="People icon" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=999999&color=A78BFA&width=160&height=32&lines=Activities Match" alt="Activities Match"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=999999&color=A78BFA&width=160&height=32&lines=Activities+Match" alt="Activities Match"/>
 
 <sub>Hackathon Project</sub>
 
